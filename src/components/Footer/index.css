@@ -1,0 +1,32 @@
+.heading-covid {
+  width: 130px;
+  height: 24px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  color: #f8fafc;
+  cursor: pointer;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.india {
+  color: #007bff;
+}
+.footer-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.para {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #94a3b8;
+  text-align-last: center;
+}
